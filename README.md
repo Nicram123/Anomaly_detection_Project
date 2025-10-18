@@ -25,8 +25,10 @@ Several visualizations were prepared to better understand the structure and imba
 ### Main visualizations:
 - **Distribution of Transaction Amounts**  
  <img width="1207" height="315" alt="image" src="https://github.com/user-attachments/assets/1a44b8da-974e-4c96-b28d-6a5a980f24aa" />
+ 
 - **Correlation Heatmap**  
 <img width="850" height="772" alt="image" src="https://github.com/user-attachments/assets/5d71f6d0-7d03-43b9-9754-50e3431a2d4c" />
+
 - **Anomaly Score Visualization `confusion matrix`**  
  <img width="852" height="386" alt="image" src="https://github.com/user-attachments/assets/00dfe010-7354-45c1-bb7c-e394ecd1be0c" />
 
